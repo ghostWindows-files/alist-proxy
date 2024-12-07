@@ -1,4 +1,4 @@
-name: Build Linux AMD64 Binary
+name: Build Linux AMD64 Binary Latest
 
 on:
   push:
