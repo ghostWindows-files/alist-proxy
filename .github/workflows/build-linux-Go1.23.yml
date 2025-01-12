@@ -1,4 +1,4 @@
-name: Build Linux AMD64 Binary Latest
+name: Build Linux AMD64 Binary Go1.23
 
 on:
   push:
