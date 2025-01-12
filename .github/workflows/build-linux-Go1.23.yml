@@ -1,6 +1,6 @@
 name: Build Linux AMD64 Binary Go1.23
 
-
+on:
   workflow_dispatch: # 支持手动触发工作流
 
 jobs:
