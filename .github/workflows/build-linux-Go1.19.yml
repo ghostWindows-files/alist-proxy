@@ -1,9 +1,7 @@
 name: Build Linux AMD64 Binary Go1.19
 
 on:
-  push:
-    branches:
-      - main  # 仅在代码推送到 main 分支时触发
+
   workflow_dispatch: # 支持手动触发工作流
 
 jobs:
